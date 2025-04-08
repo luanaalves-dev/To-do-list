@@ -9,7 +9,17 @@ A simple yet efficient task-tracking application designed to boost productivity 
 
 ![Image](https://github.com/user-attachments/assets/60dcc958-2850-4bbb-9275-5f8ed538600a)
 
-##
+
+## 🛠️ Tech Stack
+
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+
+
 <h3>Key Features: </h3>
 
 ✅ Add, Delete & Mark as Done: Easily manage tasks with one-click interactions
@@ -26,3 +36,6 @@ A simple yet efficient task-tracking application designed to boost productivity 
 <p>This project strengthened my skills in vanilla JavaScript, dynamic DOM manipulation, and building responsive layouts with semantic HTML and CSS. It also emphasized best practices for creating maintainable and scalable code, even in small applications.</p>
 
 ##
+
+
+
