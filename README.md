@@ -18,9 +18,7 @@ A simple yet efficient task-tracking application designed to boost productivity 
 
 ---
 
-
-
-<h3>Key Features: </h3>
+<h3>✨ Key Features: </h3>
 
 ✅ Add, Delete & Mark as Done: Easily manage tasks with one-click interactions
 
