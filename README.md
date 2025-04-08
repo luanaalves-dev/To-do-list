@@ -31,6 +31,8 @@ A simple yet efficient task-tracking application designed to boost productivity 
 ✅ Lightweight & Fast: Built without external libraries or frameworks for optimal performance
 
 
+---
+
 <p>This project strengthened my skills in vanilla JavaScript, dynamic DOM manipulation, and building responsive layouts with semantic HTML and CSS. It also emphasized best practices for creating maintainable and scalable code, even in small applications.</p>
 
 ##
